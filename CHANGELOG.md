@@ -1,5 +1,21 @@
 # Changelog
 
+## [23.5.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.4.0...v23.5.0) (2025-03-08)
+
+
+### Features
+
+* **add:** 7848 ([#8944](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8944)) ([e72841c](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e72841c8df3284ebe64f4ce9adde254b08950dcc))
+* **add:** Bed.box ([#8932](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8932)) ([df36445](https://github.com/Koenkk/zigbee-herdsman-converters/commit/df364453a178142b013ec29644942175bca90eb7))
+* **add:** ZN2S-US1-SD https://github.com/Koenkk/zigbee2mqtt/discussions/26609 ([cf7ea54](https://github.com/Koenkk/zigbee-herdsman-converters/commit/cf7ea54a72a1835f3f5871beee47b51466be2e67))
+
+
+### Bug Fixes
+
+* Add label to modern extends binary function ([#8943](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8943)) ([d101973](https://github.com/Koenkk/zigbee-herdsman-converters/commit/d101973b8f7ce737dc583bcf9b79350dddf6f0cd))
+* Re-add on_time and off_wait_time to the light_onoff_brightness converter ([#8942](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8942)) ([d029330](https://github.com/Koenkk/zigbee-herdsman-converters/commit/d029330ad508ca49cb7761990d4d6c1d83a9de4b))
+* ShinaSystem: use metering cluster for power measurements ([#8909](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8909)) ([c05d482](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c05d482f8ea4727d0f97167cd18ee985d73b7535))
+
 ## [23.4.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.3.0...v23.4.0) (2025-03-06)
 
 
